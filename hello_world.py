@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-print("Hello world!")
 
-=======
 print("Hello world!")
->>>>>>> upstream2/master
+print("Hello from future")
